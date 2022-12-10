@@ -1,0 +1,5 @@
+name: AuthMC
+version: '${project.version}'
+main: faresdev.authmc.AuthMC
+api-version: 1.19
+authors: [ Fares ]
